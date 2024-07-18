@@ -38,18 +38,17 @@
     git clone https://github.com/Kokorody/GojiraTuners-online-tuning-shop.git
     ```
 
-2. Navigate to the project directory:
+3. Navigate to the project directory:
 
     ```bash
     cd gojiratuners
     ```
 
-3. Set up the database:
+4. Set up the database:
 
     - Import the SQL file located in `database/gojiratuners.sql` into your SQL database.
-    - Update the database configuration in `config.php` with your database credentials.
 
-4. Start the web server and navigate to the project URL in your browser.
+5. Start the web server and navigate to the project URL in your browser.
 
 ### Usage
 

@@ -35,7 +35,7 @@
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/gojiratuners.git
+    git clone https://github.com/Kokorody/GojiraTuners-online-tuning-shop.git
     ```
 
 2. Navigate to the project directory:

@@ -58,31 +58,6 @@
 - Add items to your shopping cart and proceed to checkout when ready.
 - Fill in your customer details and choose your preferred payment method to complete the purchase.
 
-## Contributing
-
-We welcome contributions from the community! If you would like to contribute, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch:
-
-    ```bash
-    git checkout -b feature-name
-    ```
-
-3. Make your changes and commit them:
-
-    ```bash
-    git commit -m "Description of changes"
-    ```
-
-4. Push to the branch:
-
-    ```bash
-    git push origin feature-name
-    ```
-
-5. Open a pull request and describe the changes you have made.
-
 ## Contact
 
 If you have any questions or need further assistance, feel free to reach out:

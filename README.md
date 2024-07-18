@@ -83,10 +83,6 @@ We welcome contributions from the community! If you would like to contribute, pl
 
 5. Open a pull request and describe the changes you have made.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 If you have any questions or need further assistance, feel free to reach out:

@@ -41,7 +41,7 @@
 2. Navigate to the project directory:
 
     ```bash
-    cd gojiratuners
+    cd GojiraTuners-online-tuning-shop
     ```
 
 3. Set up the database:
